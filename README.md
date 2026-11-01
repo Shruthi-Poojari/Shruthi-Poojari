@@ -6,7 +6,7 @@ I hunt for vulnerabilities in web applications and open-source platforms through
 
 ## 🏆 Highlights
 
-- **CVE-2026-56298** — co-discovered with [Harsh Yadav](https://github.com/harsh132013): EXIF metadata exposure in Capgo (CVSS 5.3, CWE-200), patched in v12.128.2
+- **CVE-2026-56298** — EXIF metadata exposure in Capgo (CVSS 5.3, CWE-200), patched in v12.128.2
   - [CVE Record](https://www.cve.org/CVERecord?id=CVE-2026-56298) · [GHSA-62jm-xp28-x4xw](https://github.com/Cap-go/capgo.app/security/advisories/GHSA-62jm-xp28-x4xw)
 - Active HackerOne researcher
 - Additional CVEs currently in the disclosure pipeline
